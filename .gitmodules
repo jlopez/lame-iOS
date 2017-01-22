@@ -1,0 +1,6 @@
+[submodule "lame-ios-build"]
+	path = lame-ios-build
+	url = git@github.com:kewlbear/lame-ios-build
+[submodule "lame-ios-static-libs"]
+	path = lame-ios-static-libs
+	url = git@github.com:jlopez/lame-ios-static-libs
